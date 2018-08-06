@@ -8,6 +8,8 @@
       <module name="first-web-selenium-project_test" target="1.8" />
       <module name="second-web-selenium-byRecorder_main" target="1.8" />
       <module name="second-web-selenium-byRecorder_test" target="1.8" />
+      <module name="Trello_main" target="1.8" />
+      <module name="Trello_test" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
